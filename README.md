@@ -35,6 +35,14 @@ El programa informa:
 
 Se ejecutó el programa utilizando:
 
-`node diagnostico.js pruebaco.js prueba`
+node diagnostico.js pruebaco.js prueba
 
-![Evidencia de ejecucion](img/captura1.png) 
+![Evidencia de ejecucion](evidencias/ejecucion-node.png) 
+
+### 1. Ejecución mediante npm
+
+Se ejecutó el programa utilizando:
+
+npm run diagnostico -- prueba
+
+![Evidencia de ejecucion](evidencias/ejecucion-npm.png)
