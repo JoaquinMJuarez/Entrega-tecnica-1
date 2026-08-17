@@ -1,0 +1,14 @@
+{
+  "name": "entrega-tecnica-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diagnostico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "diagnostico": "node diagnostico.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
