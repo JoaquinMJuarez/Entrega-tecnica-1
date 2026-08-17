@@ -29,7 +29,12 @@ El programa informa:
 - Argumentos recibidos mediante `process.argv`.
 - Variable de entorno mediante `process.env`.
 
-## Ejecución directa
+## Evidencias de ejecución
 
-```bash
-node diagnostico.js prueba
+### 1. Ejecución con Node.js
+
+Se ejecutó el programa utilizando:
+
+`node diagnostico.js pruebaco.js prueba`
+
+![Evidencia de ejecucion](img/captura1.png) 
