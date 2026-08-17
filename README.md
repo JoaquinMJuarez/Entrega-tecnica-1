@@ -46,3 +46,18 @@ Se ejecutó el programa utilizando:
 npm run diagnostico -- prueba
 
 ![Evidencia de ejecucion](evidencias/ejecucion-npm.png)
+
+---
+
+## Estructura del proyecto
+```text
+Entrega-tecnica-1/
+│
+├── evidencias/
+│   ├── ejecucion-node.png
+│   └──ejecucion-npm.png
+│
+├── diagnostico.js
+├── package.json
+└── README.md
+```
